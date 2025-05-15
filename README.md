@@ -169,7 +169,7 @@
 
 | Project | Stack | Description | Link |
 |--------|-------|-------------|------|
-| **WebShopOnline** | Java, Spring Boot, MySQL, Maven | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/WebShopOnline) |
+| **Online Store** | Java, Spring Boot, MySQL, Maven | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/WebShopOnline) |
 | **Streaming-Auth** (with [Vladyslav](https://github.com/VladyslavDobrovolskyi)) | Java, JWT, Spring Security | Auth service for a streaming platform | [🔗 GitHub](https://github.com/VladyslavDobrovolskyi/streaming-auth) |
 | **Private MVPs** | Coming Soon | Currently in stealth mode 😉 | 🔒 Private for now |
 
