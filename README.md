@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>👋 Hi there! I'm Andrii Dovhal 👨‍💻</h1>
-<p><b>QA Engineer | Java Developer | Based in Lodz  <img src="https://flagcdn.com/24x18/pl.png" alt="PL" /></b></p>
+<p><b>Java Developer | Based in Lodz  <img src="https://flagcdn.com/24x18/pl.png" alt="PL" /></b></p>
 
 <div style="text-align: center;">
-  <img src="https://advd.tech/views.svg" alt="Custom Profile Views" />
+  <img src="https://advd.tech/views.svg" alt="Profile Views" />
 </div>
 
 ---
@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  🧪 QA Engineer with a passion for clean tests & scalable automation<br/>
   ☕ Java backend dev — REST APIs, CI/CD pipelines, and Spring Boot magic<br/>
   📱 Android app tinkerer with love for custom UIs & animations<br/>
   🔧 DevOps mindset: CI/CD, self-hosting, Ubuntu server, Docker, Jenkins<br/>
