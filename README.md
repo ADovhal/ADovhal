@@ -4,7 +4,7 @@
 <p><b>Java Developer | Based in Lodz  <img src="https://flagcdn.com/24x18/pl.png" alt="PL" /></b></p>
 
 <div style="text-align: center;">
-  <img src="https://advd.tech/views.svg" alt="Profile Views" />
+  <img src="https://advd.eu/views.svg" alt="Profile Views" />
 </div>
 
 ---
@@ -168,7 +168,7 @@
 
 | Project | Stack | Description | Link |
 |--------|-------|-------------|------|
-| **Online Store** | Java, Spring Boot, PostgreSQL, Maven, Hibernate | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/WebShopOnline) |
+| **TeIpsum Store** | Java, Spring Boot, PostgreSQL, Maven, Hibernate | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/WebShopOnline) |
 | **Streaming-Auth** (with [Vladyslav](https://github.com/VladyslavDobrovolskyi)) | Java, JWT, Spring Security | Auth service for a streaming platform | [🔗 GitHub](https://github.com/VladyslavDobrovolskyi/streaming-auth) |
 | **Private MVPs** | Coming Soon | Currently in stealth mode 😉 | 🔒 Private for now |
 
@@ -179,6 +179,7 @@
   
 </p>
 <img src="https://flagcdn.com/24x18/pl.png" alt="PL" /> Official <b>C1 Polish Language Certificate</b> <br/>
+<img src="https://flagcdn.com/24x18/us.png" alt="USA" /> <b>TELC English University B2 Certificate</b> <br/>
 🎓 <b>Udemy</b> and other platforms (links coming soon)<br/>
 </p>
 
