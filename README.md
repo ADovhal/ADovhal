@@ -169,7 +169,7 @@
 | Project | Stack | Description | Link |
 |--------|-------|-------------|------|
 | **Coin Scope** | Java 21, Spring Boot 3.4.0, PostgreSQL, Maven, Hibernate/JPA | University Team Project | 🔒 Private for now |
-| **TeIpsum Store** | Java 17, Spring Boot 3.4.0, PostgreSQL, Maven, Hibernate/JPA | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/TeIpsum-Store)) |
+| **TeIpsum Store** | Java 17, Spring Boot 3.4.0, PostgreSQL, Maven, Hibernate/JPA | Personal E-commerce MVP | [🔗 GitHub](https://github.com/ADovhal/TeIpsum-Store) |
 | **TeIpsum-CMS-Desktop** | JavaFX, Java 21, HTTP Client, REST API, JWT, Jackson | CMS for TeIpsum Store | [🔗 GitHub](https://github.com/ADovhal/TeIpsum-CMS-Desktop) |
 | **Streaming-Auth** (with [Vladyslav](https://github.com/VladyslavDobrovolskyi)) | Java, JWT, Spring Security | Auth service for a streaming platform | [🔗 GitHub](https://github.com/VladyslavDobrovolskyi/streaming-auth) |
 | **Private MVPs** | Coming Soon | Currently in stealth mode 😉 | 🔒 Private for now |
